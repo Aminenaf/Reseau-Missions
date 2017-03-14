@@ -12,7 +12,7 @@ wt9.ephec-ti.be.			IN	SOA	ns.wt9.ephec-ti.be. admin.wt9.ephec-ti.be. (
 ); 
 
 wt9.ephec-ti.be.	IN	NS	ns.wt9.ephec-ti.be. 
-wt9.ephec-ti.be.	IN	MX	10	mail.wt7.ephec-ti.be.
+wt9.ephec-ti.be.	IN	MX	10	mail.wt9.ephec-ti.be.
 wt9.ephec-ti.be.	IN	A	151.80.119.133
 ns.ephec-ti.be		IN	A	151.80.119.133
 mail			IN	A	151.80.119.133

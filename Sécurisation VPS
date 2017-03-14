@@ -1,0 +1,9 @@
+Console ordinateur personel
+#ssh-keygen -b 4096
+#scp ~/.ssh/id-rsa.pub amine@vps375402.ovh.net:
+Console serveur ovh
+#mkdir ~/.ssh
+#chmod 700 ~/.ssh
+#cat /id_rsa.pub >> ~/.ssh/authorized_keys
+#rm ~/id_rsa.pub
+#chmod 600 ~/.ssh/authorized_keys

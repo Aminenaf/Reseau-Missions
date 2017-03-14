@@ -10,3 +10,7 @@ zone "wt9.ephec-ti.be" {
 	type master;
 	file "/etc/bind/zones/db.wt9.ephec-ti.be";
 };
+zone "119.80.133.in-addr3.arpa" {
+	type master;
+	file "/etc/bind/zones/db.133.80.119";
+};
